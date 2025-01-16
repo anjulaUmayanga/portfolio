@@ -1,8 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e1278f42.css",
-    "main.js": "/portfolio/static/js/main.a27b6afa.js",
+    "main.js": "/portfolio/static/js/main.037c23b3.js",
     "static/js/488.2cdc2d81.chunk.js": "/portfolio/static/js/488.2cdc2d81.chunk.js",
+    "static/media/airbnb.mp4": "/portfolio/static/media/airbnb.759c29c0286328b23951.mp4",
+    "static/media/Book.mp4": "/portfolio/static/media/Book.207d40b023f314606a48.mp4",
+    "static/media/ecommerce-demo.mp4": "/portfolio/static/media/ecommerce-demo.62c94bc85938275d73ec.mp4",
+    "static/media/Blog.mp4": "/portfolio/static/media/Blog.77b8444134dd6cff6d06.mp4",
     "static/media/me1.png": "/portfolio/static/media/me1.7dd8a00282cccebd7dc7.png",
     "static/media/beewise2.jpeg": "/portfolio/static/media/beewise2.0b443928c7aae89d8daf.jpeg",
     "static/media/ml1.jpg": "/portfolio/static/media/ml1.13aa4d5c76dc01b08a31.jpg",
@@ -11,11 +15,11 @@
     "static/media/ml2.jpg": "/portfolio/static/media/ml2.02c75a87aeba6bec896c.jpg",
     "index.html": "/portfolio/index.html",
     "main.e1278f42.css.map": "/portfolio/static/css/main.e1278f42.css.map",
-    "main.a27b6afa.js.map": "/portfolio/static/js/main.a27b6afa.js.map",
+    "main.037c23b3.js.map": "/portfolio/static/js/main.037c23b3.js.map",
     "488.2cdc2d81.chunk.js.map": "/portfolio/static/js/488.2cdc2d81.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1278f42.css",
-    "static/js/main.a27b6afa.js"
+    "static/js/main.037c23b3.js"
   ]
 }
